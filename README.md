@@ -37,9 +37,6 @@ Key functionalities include:
 
 ```bash
 # Clone the repository
-git clone https://github.com/MinhongCho/cs2200-project3.git
-cd cs2200-project3
-
 # Build the simulator and tests
 make
 ```
